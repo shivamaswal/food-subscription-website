@@ -2,10 +2,10 @@
 /* 1rem 1em = 16px */
 
 /* ******************************************* */
-/* Below 1344px (Smaller computers) */
+/* Below 1408px (Smaller computers) */
 /* ******************************************* */
 
-@media (max-width: 84em) {
+@media (max-width: 88em) {
   .hero {
     max-width: 120rem;
   }
